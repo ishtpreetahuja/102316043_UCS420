@@ -13,7 +13,7 @@ This repository contains the lab assignments for the subject UCS420 - Cognitive 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/college-repo.git
+    git clone https://github.com/ishtpreetahuja/102316043_UCS420.git
     ```
 2. Navigate to the specific assignment folder to view the solutions.
 
